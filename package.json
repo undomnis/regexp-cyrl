@@ -1,0 +1,19 @@
+{
+  "name": "regexp-cyrl",
+  "version": "1.0.2",
+  "description": "Аllows you to take full advantage of the capabilities of regular expressions with Cyrillic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "undomnis",
+  "license": "ISC",
+  "dependencies": {
+    "cyrillic-to-translit-js": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undomnis/regexp-cyrl.git"
+  },
+  "homepage": "https://github.com/undomnis/regexp-cyrl#readme"
+}
